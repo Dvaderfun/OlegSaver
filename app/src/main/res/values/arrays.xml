@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="problem">
+        <item>Problem 1</item>
+        <item>Problem 2</item>
+        <item>Problem 3</item>
+        <item>Problem 4</item>
+        <item>Problem 5</item>
+        <item>Смэрть</item>
+    </string-array>
+
+</resources>

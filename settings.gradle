@@ -1,0 +1,2 @@
+include ':app', ':bloqly'
+rootProject.name='Oleg Saver'

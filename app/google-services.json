@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938101402800",
+    "firebase_url": "https://saveoleg-8d96f.firebaseio.com",
+    "project_id": "saveoleg-8d96f",
+    "storage_bucket": "saveoleg-8d96f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938101402800:android:2647cf7f0cafe768369f75",
+        "android_client_info": {
+          "package_name": "com.quarnuts.olegsaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938101402800-8qu3i99qffjiqudmqgi5fmaljtn5592e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE63JVO0maNIHpx6R1N7hme_Nqp0aJmH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938101402800-8qu3i99qffjiqudmqgi5fmaljtn5592e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
